@@ -1,6 +1,9 @@
 # Curso-de-IA
 Minhas conclusões sobre o curso de Inteligência Artificial
 
+
+
+---
 **Negrito**
 
 *Itálico*
@@ -19,3 +22,4 @@ Minhas conclusões sobre o curso de Inteligência Artificial
 # Título 1
 ## Título 2
 ### Título 3
+---
