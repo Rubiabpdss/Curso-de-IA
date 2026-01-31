@@ -9,7 +9,7 @@ Minhas conclusões sobre o curso de Inteligência Artificial
 
 [Site Univali](http://www.univali.br)
 
-'code' polentinha
+´marcação´
 
 * Lista 1
 * Lista 2
