@@ -2,13 +2,23 @@
 Minhas conclusões sobre o curso de Inteligência Artificial
 
 **Negrito**
+
 *Itálico*
+
 ~~Tachado~~
-[title](http://www.univali.br)
+
+[Site Univali](http://www.univali.br)
+
 'sublinhado'
-* Lista
+
+* Lista 1
+* lista 2
+
+
 > Parágrafo
-==Marcado==
+> 
+== Marcado ==
+
 # Título 1
 ## Título 2
 ### Título 3
