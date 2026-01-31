@@ -9,7 +9,7 @@ Minhas conclusões sobre o curso de Inteligência Artificial
 
 [Site Univali](http://www.univali.br)
 
-´marcação´
+ `npm install`
 
 * Lista 1
 * Lista 2
