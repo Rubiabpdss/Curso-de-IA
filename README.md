@@ -9,15 +9,12 @@ Minhas conclusões sobre o curso de Inteligência Artificial
 
 [Site Univali](http://www.univali.br)
 
-'sublinhado'
+'code' polentinha
 
 * Lista 1
-* lista 2
+* Lista 2
 
-
-> Parágrafo
-> 
-== Marcado ==
+> Exemplo de citação
 
 # Título 1
 ## Título 2
